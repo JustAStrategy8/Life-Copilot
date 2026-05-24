@@ -8,3 +8,5 @@ Life Copilot uses a “Life Loop” inspired by game design: assess, plan, act, 
 Unlike traditional productivity tools, Life Copilot focuses on alignment rather than pressure. It helps users understand why they struggle, where they thrive, and how to design a life that fits their values. With optional automation, reminders, journaling, and AI‑powered insights, Life Copilot becomes a supportive companion that evolves with the user.
 
 Life Copilot’s mission is simple: make life easier to navigate, easier to understand, and easier to improve, one loop at a time.
+
+![image alt](https://github.com/JustAStrategy8/Life-Copilot/blob/c2cb9d1e222fdf4053f791589431fa16e027db3d/Life-Copilot-Banner.png)
